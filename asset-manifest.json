@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dandy/static/css/main.f855e6bc.css",
+    "main.js": "/dandy/static/js/main.82a2041c.js",
+    "index.html": "/dandy/index.html",
+    "main.f855e6bc.css.map": "/dandy/static/css/main.f855e6bc.css.map",
+    "main.82a2041c.js.map": "/dandy/static/js/main.82a2041c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.82a2041c.js"
+  ]
+}
